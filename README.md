@@ -2,7 +2,7 @@
 
 🧐 I would like to introduce a bit about myself and the fields I am currently pursuing.
 
-🐟Hello, I'm Duyen Hoang, a final-year student majoring in e-commerce at the University of Economics and Law (UEL - VNUHCM) in Vietnam. I aspire to pursue a career in the field of Business Analysis, and I am really intrigued by Business Intelligence (BI) and Deep-learning.🐟\
+🐟Hello, I'm Duyen Hoang, a final-year student majoring in e-commerce at the University of Economics and Law (UEL - VNUHCM) in Vietnam. I aspire to pursue a career in the field of Business Analysis and Data Analysis , and I am really intrigued by Business Intelligence (BI) and Deep-learning.🐟\
 \
 📫  Contact me at email: hoangduyen0228@gmail.com.
 
